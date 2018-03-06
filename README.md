@@ -38,6 +38,9 @@
 * css 流
 * 过渡
 * 动画
+* scss
+* sass
+* postcss
 
 ### javascript
 
@@ -56,6 +59,10 @@
 * 面向对象
 * DOM 模型
 * 浏览器环境
+* nodeJS
+* 模块化
+* jQuery
+* vue/react/angular
 
 ### 课后习题
 
